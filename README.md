@@ -140,9 +140,9 @@ Request body:
 
 {
 
-&#x20; "username": "Sirisha",
+&#x20; "username": "Ruchi",
 
-&#x20; "email": "sirisha@example.com"
+&#x20; "email": "ruchi@example.com"
 
 }
 
